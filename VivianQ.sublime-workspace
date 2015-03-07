@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"it",
+				"itsme"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tq",
+				"tquizzle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"PO",
+				"Jekyll: New post"
+			],
+			[
+				"je",
+				"Jekyll: New post"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/travis/Sites/VivianQ.com"
+	],
+	"file_history":
+	[
+		"/Users/travis/Desktop/HaulProduce-Site/untitled.html",
+		"/Users/travis/Sites/vtechify.com/_drafts/2013-05-22-sample-post-images.md",
+		"/Users/travis/Sites/vtechify.com/_drafts/2011-03-10-sample-post.md",
+		"/Users/travis/Sites/vtechify.com/_posts/2014-06-05-set-vmtools-upgrade-policy-manual.md",
+		"/Users/travis/Sites/SilasQ.com/_config.yml",
+		"/Users/travis/Desktop/hpstr-jekyll-theme-master/_config.yml",
+		"/Users/travis/Sites/tquizzle.github.io/google243c1745b11aa0c5.html",
+		"/Users/travis/Desktop/HaulProduce-Site/haul-produce-ad.swf",
+		"/Users/travis/Sites/tquizzle.github.io/_includes/default.html",
+		"/Users/travis/Sites/tquizzle.github.io/_includes/analytics.html",
+		"/Users/travis/Sites/tquizzle.github.io/feed.xml",
+		"/Users/travis/Sites/tquizzle.github.io/rss/index.html",
+		"/Users/travis/Sites/tquizzle.github.io/rss.xml",
+		"/Users/travis/Sites/tquizzle.github.io/README.md",
+		"/Users/travis/Sites/tquizzle.github.io/_includes/post.html",
+		"/Users/travis/Desktop/lagom-master/_layouts/post.html",
+		"/Users/travis/Sites/tquizzle.github.io/_includes/sidebar.html",
+		"/Users/travis/Desktop/hosts",
+		"/Users/travis/Desktop/lagom-master/_config.yml",
+		"/Users/travis/Desktop/lagom-master/_includes/social.html",
+		"/Users/travis/Desktop/lagom-master/_includes/footer.html",
+		"/Users/travis/Downloads/dbyll-master/_config.yml",
+		"/Users/travis/Sites/tquizzle.github.io/_layouts/post.html",
+		"/Users/travis/Desktop/jekyll-export 3/_config.yml",
+		"/Users/travis/Sites/tquizzle.github.io.existing/CNAME",
+		"/Users/travis/Desktop/jekyll-export/_config.yml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"center",
+			"page-header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/travis/Sites/VivianQ.com"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
