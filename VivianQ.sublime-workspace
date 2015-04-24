@@ -19,6 +19,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "birth/index.html",
+			"settings":
+			{
+				"buffer_size": 17215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/travis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -73,10 +89,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/travis/Sites/VivianQ.com"
+		"/Users/travis/Sites/VivianQ.com",
+		"/Users/travis/Sites/VivianQ.com/birth/css",
+		"/Users/travis/Sites/VivianQ.com/birth/js"
 	],
 	"file_history":
 	[
+		"/Users/travis/Sites/VivianQ.com/_Compass/_config.yml",
+		"/Users/travis/Sites/VivianQ.com/_Compass/CNAME",
+		"/Users/travis/Sites/VivianQ.com/ls",
+		"/Users/travis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/travis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/travis/Desktop/HaulProduce-Site/untitled.html",
 		"/Users/travis/Sites/vtechify.com/_drafts/2013-05-22-sample-post-images.md",
 		"/Users/travis/Sites/vtechify.com/_drafts/2011-03-10-sample-post.md",
@@ -106,13 +129,14 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -120,6 +144,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'",
+			"fila",
+			"filig",
+			"?raw=true",
+			"fila",
+			"https://",
+			"http://",
+			"Chillin&#8217; with my Suess Blanket",
+			"woo-image",
+			"head",
+			"silas",
 			"center",
 			"page-header"
 		],
@@ -129,6 +164,12 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"",
+			"",
+			"//",
+			"",
+			"\"woo-image\"",
+			"vivian"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -146,8 +187,67 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "birth/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17098,
+								17098
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/travis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -189,7 +289,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -224,7 +324,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 229.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
